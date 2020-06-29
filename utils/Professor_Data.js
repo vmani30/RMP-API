@@ -33,11 +33,6 @@ function getProfData(profURL, callback) {
             })
 
             
-
-
-            
-            // Learn about JavaScript callbacks
-            
         }
 
 
