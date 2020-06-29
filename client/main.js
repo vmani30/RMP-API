@@ -17,6 +17,7 @@ $("button").click(function (e) {
             $("#would_take_again").html("Would Take Again: " + result.would_take_again);
             $("#difficulty").html("Difficulty: " + result.difficulty);
             $("#overall_quality").html("Overall Quality: " + result.overall_quality);
+            $("#most_recent_comment").html("Most Recent Comment: " + result.most_recent_comment);
             $("#url").html('Professor website');
             $("#url").attr("href", result.URL);
 

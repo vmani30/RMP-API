@@ -4,7 +4,7 @@ const express = require('express');
 var app = express();
 const cors = require('cors');
 
-
+app.use(cors());
 
 app.get('/', function (req, res) {
     res.json('WELCOME TO THE RATE MY PROFESSOR API' );
