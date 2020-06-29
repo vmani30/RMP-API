@@ -31,3 +31,6 @@ professor URL: ```http://localhost:3000/professor?fname=<first_name>&lname=<last
 
 ## Example Output
 
+![Image of Sample Output](https://github.com/vmani273/RMP-API/blob/master/Sample%20Output.png)
+
+
