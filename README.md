@@ -19,7 +19,6 @@ For running on your local machine or any hosting server for development and test
 
 ## APIs Endpoints
 
-
 #### /
 intro URL `http://localhost:3000/`
 
@@ -28,5 +27,7 @@ intro URL `http://localhost:3000/`
 * `lname` : last name of professor
 * `university` : university of professor
 
-
 professor URL: ```http://localhost:3000/professor?fname=<first_name>&lname=<last_name>&university=<university>```
+
+## Example Output
+
